@@ -3,3 +3,18 @@ body {
   height: 100%;
   margin: 0;
 }
+#Objects-to-center {
+display :block;
+justify-content: center;
+width: auto;
+text-align: center;
+}
+#details {
+  display: flex;
+  justify-content: space-around;
+  background-color: red;
+  text-align: center;
+}
+nav a{
+  background-color: grey;  
+}
